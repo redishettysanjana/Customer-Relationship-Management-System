@@ -16,7 +16,7 @@ This system allows users to manage customer information including adding, editin
 
 ---
 
-## Technologies Used
+## Tech Stack
 
 Frontend
 - React.js
@@ -33,5 +33,3 @@ Database
 
 Version Control
 - Git & GitHub
-
-## Project Structure
