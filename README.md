@@ -31,5 +31,5 @@ BACKEND
 DATABASE
 - MongoDB
 
-Version Control
+VERSION CONTROL
 - Git & GitHub
