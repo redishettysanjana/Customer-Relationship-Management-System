@@ -18,17 +18,17 @@ This system allows users to manage customer information including adding, editin
 
 ## Tech Stack
 
-Frontend
+FRONTEND
 - React.js
 - HTML
 - CSS
 - Bootstrap
 
-Backend
+BACKEND
 - Node.js
 - Express.js
 
-Database
+DATABASE
 - MongoDB
 
 Version Control
